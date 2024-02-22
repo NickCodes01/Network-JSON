@@ -6,7 +6,7 @@ searchAuthorsByAge,
 getBooksByState,
 searchAuthorsByHometown,
 getAuthorBooks
-} from './authors.mjs';
+} from './authors.js';
 
 //import all functions from books.mjs
 import {
@@ -15,7 +15,7 @@ booksByPageCount,
 sameYear,
 minMaxPrice,
 searchBooksByPublisher
-} from './books.mjs';
+} from './books.js';
 
 /////////////////////////////////////////////////////////////////////
 
